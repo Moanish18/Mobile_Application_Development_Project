@@ -30,7 +30,7 @@
 ## 🎯 Project Overview
 
 Greenhub aims to:
-- Encourage and gamify environmentally friendly habits.
+- Encourage environmentally friendly habits.
 - Provide a platform for sustainability-related events and content.
 - Promote community participation in eco-conscious initiatives.
 
@@ -38,11 +38,9 @@ Greenhub aims to:
 
 ## 🚀 Key Features
 
-- 🟢 Cross-platform support (Android, iOS, Web, Desktop)
+- 🟢 Cross-platform support (Android, Web, Desktop)
 - 🟢 User authentication
 - 🟢 Community posts and eco-event listings
-- 🟢 Reward points system for green actions
-- 🟢 Admin management features
 
 ---
 
@@ -50,8 +48,7 @@ Greenhub aims to:
 
 - **Framework:** Flutter (Dart)
 - **Design Tool:** Adobe XD
-- **State Management:** (e.g., Provider, Bloc — depending on your setup)
-- **Database:** (Specify here — Firebase, SQLite, etc. if applicable)
+- **Database:** Firebase/Cloud Firestore
 - **Video Tool:** Screen capture demo with narration
 
 ---
