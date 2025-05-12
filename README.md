@@ -1,5 +1,11 @@
 # 🌱 Greenhub
 
+![Flutter](https://img.shields.io/badge/Built%20with-Flutter-blue?logo=flutter)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Web%20%7C%20Desktop-green)
+![Prototype](https://img.shields.io/badge/Design-Adobe%20XD-purple)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Demo](https://img.shields.io/badge/Demo-Available-brightgreen)
+
 **Greenhub** is a cross-platform application developed to promote sustainable living through a digital-first approach. It is available as both a **Mobile Android App** and a **Web App**, built using Flutter for a unified codebase. The project also includes a high-fidelity prototype, project documentation, a database schema, and a demo video.
 
 ---
